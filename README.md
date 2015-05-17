@@ -8,14 +8,12 @@ Les thèmes abordés dans ce livre seront les suivants :
 * La `location` d'un nœud et son importance
 * Fonctionnement du WebOfTrust et son API
 * Que va changer le build purge-db4o
+* État des lieux des différents plugins de communication type Freetalk, FMS, Frost, Sone etc
 * Résumé et explication de l'article "Measuring Freenet in the Wild"
 
 ## À propos de ce livre
 
-Je veux que ce livre explique le plus clairement possible le fonctionnement et le comportement de Freenet. De manière plus précise que la documentation officielle[1][2].
-
-* [1] The Freenet Project – https://freenetproject.org/
-* [2] Freenet Wiki – https://wiki.freenetproject.org/
+Je veux que ce livre explique le plus clairement possible le fonctionnement et le comportement de Freenet. De manière plus précise que la documentation officielle.
 
 Ce livre est disponible en [Français](https://www.gitbook.com/book/alexandrerio/freenet-internals-french-version/details), ma langue maternelle, mais également en [Anglais](https://www.gitbook.com/book/alexandrerio/freenet-internals).
 
