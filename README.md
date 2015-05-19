@@ -10,7 +10,8 @@ Les thèmes abordés dans ce livre seront les suivants :
 * Que va changer le build purge-db4o
 * État des lieux des différents plugins de communication type Freetalk, FMS, Frost, Sone etc
 * Résumé et explication de l'article "Measuring Freenet in the Wild"
-** Explication du stockage des données sur un nœud (`storage` et `cache`)
+* Explication du stockage des données sur un nœud (`storage` et `cache`)
+* Détail des URL sur Freenet et des systèmes de clés
 * Explication des différents `core settings`
 
 Et dans un second temps :
