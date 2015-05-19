@@ -10,8 +10,10 @@ Les thèmes abordés dans ce livre seront les suivants :
 * Que va changer le build purge-db4o
 * État des lieux des différents plugins de communication type Freetalk, FMS, Frost, Sone etc
 * Résumé et explication de l'article "Measuring Freenet in the Wild"
+** Explication du stockage des données sur un nœud
+* Explication des différents `core settings`
 
-Et dans un second temps
+Et dans un second temps :
 * Aborder la limite de l'anonymat, du point de vue technique avec par exemple les IPs en opennet et le DPI, des types d'attaques envisageables et du point de vue utilisateur, en gros un laïus sur du recoupement d'information postée
 * Les limites des implémentations actuelles, principalement pour les plugins. Typiquement pourquoi WoT peut être si lent
 
