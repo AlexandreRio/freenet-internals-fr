@@ -6,17 +6,18 @@ Les thèmes abordés dans ce livre seront les suivants :
 * Structure globale du réseau
 * Comportement d'un nœud et communication entre les nœuds
 * La `location` d'un nœud et son importance
+* Explication du stockage des données sur un nœud (`storage` et `cache`)
 * Fonctionnement du WebOfTrust et son API
 * Que va changer le build purge-db4o
 * État des lieux des différents plugins de communication type Freetalk, FMS, Frost, Sone etc
 * Résumé et explication de l'article "Measuring Freenet in the Wild"
-* Explication du stockage des données sur un nœud (`storage` et `cache`)
 * Détail des URL sur Freenet et des systèmes de clés
 * Explication des différents `core settings`
 
 Et dans un second temps :
 * Aborder la limite de l'anonymat, du point de vue technique avec par exemple les IPs en opennet et le DPI, des types d'attaques envisageables et du point de vue utilisateur, en gros un laïus sur du recoupement d'information postée
 * Les limites des implémentations actuelles, principalement pour les plugins. Typiquement pourquoi WoT peut être si lent
+* Tutoriel de développement de plugins simples
 
 Ça devrait donner un bon aperçu du contenu que je pense mettre, si vous trouvez qu'il manque un point important dites-le moi et j'aviserais.
 
@@ -41,8 +42,7 @@ sur le clearnet
 * sur Twitter [@Rio_Alexandre](https://twitter.com/Rio_Alexandre)
 
 ou mêne directement sur Freenet :
-* par Freemail (bientôt),
-* sur Sone (peut-être, bientôt)
+* par Freemail (bientôt)
 
 ## Licence
 
