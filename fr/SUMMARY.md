@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
-* [Présentation](presentation.md)
-* [Références](references.md)
+* [Introduction](fr/README.md)
+* [Présentation](fr/presentation.md)
+* [Références](fr/references.md)
 
