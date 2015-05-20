@@ -1,3 +1,0 @@
-# root folder
-
-freenet
